@@ -3,6 +3,6 @@ interface MockMessage {
   age: number;
 }
 
-export function message(): string {
+export function helloworld(): string {
   return "hello world!";
 }
